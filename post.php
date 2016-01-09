@@ -8,7 +8,7 @@ if(isset($_POST['submit']))
 	if($enq_name&&$enq_email&&$enq_mobile&&$enq_msg)
 	{
 		#Mail admin and user
-		$to=$EXTRA_ARG['set_email'];
+		$to='anandprvn@gmail.com';
 		$from=$enq_email;
 		$fromname=SITE_NAME;
 		$sub="Contact enquiry - ".$enq_email;
