@@ -1,0 +1,46 @@
+/* ====================
+Color styles
+--------------------------------------------------------------*/
+
+::selection {
+	background: #FFDB5D;
+}
+::-moz-selection {
+	background:#FFDB5D;
+}
+#jprePercentage, h3.animtext, .margin , .link-holder ul li a:hover, .num , #resume  a.button , .resume-date h4 ,.resume-info h4 , .icon-holder i , .services-box-info h5 , #order a.button , .client-name , .contact-details ul li i , .contact-details ul li span , .submit_btn:hover , .social-list ul li a , .folio-overlay h5 , .desktop-screen-navigation ul li.current a , .desktop-screen-navigation ul li:hover a,.search-submit i , .bs .to-top i{
+	color: #FFDB5D;
+}
+#jpreBar, .nav-holder , .desktop-screen-navigation ul li , .button , .show-skills  span , .background-color, #options ul , .box  a, .box  a div.folio-name , .white-popup-block a.lanch-button , .separator , .price ,#order div.content, .testimonials-shadow , #contact_form textarea:focus, #contact_form input:focus , .submit_btn , #footer .content , .folio-button , .nav-top span, .tagcloud a, .pagination a.current-page, .pagination a:hover , .post-body a , .button{
+	background:#FFDB5D;
+}
+.start-decor:after {
+	border-top-color:#FFDB5D;
+}
+.start-decor:before {
+	border-bottom-color:#FFDB5D;
+}
+.show-skills:after {
+	border-top-color:#FFDB5D;
+	border-width: 28px;
+	margin-left: -18px;
+}
+.show-skills:before {
+	border-bottom-color:#FFDB5D;
+	border-width:28px;
+	margin-left:-18px;
+}
+.conter-decor:after {
+	border-top-color: #FFDB5D;
+}
+.conter-decor:before {
+	border-bottom-color: #FFDB5D;
+}
+.contact-details h3 {
+	border-bottom:2px solid #FFDB5D;
+}
+.user-photo{
+	border-left:8px solid #FFDB5D;
+}
+#services-carusel .owl-next , #project-slider .owl-next , #testimonials .owl-next{background:#FFDB5D url(../images/sr.png) no-repeat center;}
+#services-carusel .owl-prev ,#project-slider .owl-prev , #testimonials .owl-prev {background:#FFDB5D url(../images/sl.png) no-repeat center;}

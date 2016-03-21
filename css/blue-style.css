@@ -1,0 +1,46 @@
+/* ====================
+Color styles
+--------------------------------------------------------------*/
+
+::selection {
+	background: #6DCFF6;
+}
+::-moz-selection {
+	background:#6DCFF6;
+}
+#jprePercentage, h3.animtext, .margin , .link-holder ul li a:hover, .num , #resume  a.button , .resume-date h4 ,.resume-info h4 , .icon-holder i , .services-box-info h5 , #order a.button , .client-name , .contact-details ul li i , .contact-details ul li span , .submit_btn:hover , .social-list ul li a , .folio-overlay h5 , .desktop-screen-navigation ul li.current a , .desktop-screen-navigation ul li:hover a,.search-submit i , .bs .to-top i{
+	color: #6DCFF6;
+}
+#jpreBar, .nav-holder , .desktop-screen-navigation ul li , .button , .show-skills  span , .background-color, #options ul , .box  a, .box  a div.folio-name , .white-popup-block a.lanch-button , .separator , .price ,#order div.content, .testimonials-shadow , #contact_form textarea:focus, #contact_form input:focus , .submit_btn , #footer .content , .folio-button , .nav-top span, .tagcloud a, .pagination a.current-page, .pagination a:hover , .post-body a , .button{
+	background:#6DCFF6;
+}
+.start-decor:after {
+	border-top-color:#6DCFF6;
+}
+.start-decor:before {
+	border-bottom-color:#6DCFF6;
+}
+.show-skills:after {
+	border-top-color:#6DCFF6;
+	border-width: 28px;
+	margin-left: -18px;
+}
+.show-skills:before {
+	border-bottom-color:#6DCFF6;
+	border-width:28px;
+	margin-left:-18px;
+}
+.conter-decor:after {
+	border-top-color: #6DCFF6;
+}
+.conter-decor:before {
+	border-bottom-color: #6DCFF6;
+}
+.contact-details h3 {
+	border-bottom:2px solid #6DCFF6;
+}
+.user-photo{
+	border-left:8px solid #6DCFF6;
+}
+#services-carusel .owl-next , #project-slider .owl-next , #testimonials .owl-next{background:#6DCFF6 url(../images/sr.png) no-repeat center;}
+#services-carusel .owl-prev ,#project-slider .owl-prev , #testimonials .owl-prev{background:#6DCFF6 url(../images/sl.png) no-repeat center;}
